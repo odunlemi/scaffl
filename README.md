@@ -15,19 +15,19 @@ Scaffold a clean MVC folder structure for Node.js/Express projects in seconds.
 Scaffold into your current directory:
 
 ```bash
-npx scaffl
+npx scafl
 ```
 
 Scaffold into a specific folder:
 
 ```bash
-npx scaffl ./my-project
+npx scafl ./my-project
 ```
 
 ### Import as a function
 
 ```js
-const { scaffold } = require("scaffl");
+const { scaffold } = require("scafl");
 
 // Scaffold into current directory
 scaffold();

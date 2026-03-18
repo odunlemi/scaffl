@@ -1,10 +1,10 @@
 {
-  "name": "scaffl",
+  "name": "scafl",
   "version": "1.0.0",
   "description": "Scaffold a clean MVC folder structure for Node.js/Express projects",
   "main": "index.js",
   "bin": {
-    "scaffl": "bin/cli.js"
+    "scafl": "bin/cli.js"
   },
   "scripts": {
     "test": "node bin/cli.js ./test-output"
