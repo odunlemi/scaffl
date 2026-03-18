@@ -2,7 +2,11 @@
 
 Scaffold a clean MVC folder structure for Node.js/Express projects in seconds.
 
-Generates `models/`, `views/`, `controllers/`, and `routes/` — each with a working example file and an `index.js` entry point — plus a root `app.js` to tie it all together.
+- Generates `models/`, `views/`, `controllers/`, and `routes/`, each with a working example file
+
+- Adds an `index.js` entry point
+
+- Plus a root `app.js` to tie it all together
 
 ## Usage
 
@@ -76,7 +80,7 @@ npm install express
 node app.js
 ```
 
-> Existing files are never overwritten — safe to run in a project that already has some files.
+> Existing files are never overwritten. It is safe to run in a project that already has some files.
 
 ## License
 
