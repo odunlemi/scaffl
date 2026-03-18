@@ -1,0 +1,24 @@
+{
+  "name": "scaffl",
+  "version": "1.0.0",
+  "description": "Scaffold a clean MVC folder structure for Node.js/Express projects",
+  "main": "index.js",
+  "bin": {
+    "scaffl": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node bin/cli.js ./test-output"
+  },
+  "keywords": [
+    "mvc",
+    "scaffold",
+    "express",
+    "nodejs",
+    "boilerplate",
+    "cli",
+    "generator",
+    "architecture"
+  ],
+  "author": "odunlemi",
+  "license": "MIT"
+}
